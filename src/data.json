@@ -1,0 +1,26 @@
+[
+  {
+    "name": "kaosar",
+    "age": 25,
+    "postion": "frontend Developer",
+    "phones": [{ "number": 1161561610, "fax": 1641616161 }]
+  },
+  {
+    "name": "tanvir",
+    "age": 26,
+    "postion": "backend Developer",
+    "phones": [{ "number": 1161561610, "fax": 1641616161 }]
+  },
+  {
+    "name": "ahamed",
+    "age": 27,
+    "postion": "mern stack Developer",
+    "phones": [{ "number": 1161561610, "fax": 1641616161 }]
+  },
+  {
+    "name": "jony",
+    "age": 28,
+    "postion": "aws Developer",
+    "phones": [{ "number": 1161561610, "fax": 1641616161 }]
+  }
+]
